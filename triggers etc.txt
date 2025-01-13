@@ -1,0 +1,936 @@
+Scenarios
+Emotional reasons
+Nervous about a big test in math.
+Trigger words: "Math quiz," "test stress."
+Scared to speak in front of the class.
+Trigger words: "Presentation," "speech anxiety."
+Feeling overwhelmed with homework.
+Trigger words: "Too much," "can’t finish."
+Woke up feeling unmotivated.
+Trigger words: "Tired," "no energy."
+Anxiety about meeting a new teacher.
+Trigger words: "New teacher," "unfamiliar."
+Sad about a recent family issue.
+Trigger words: "Parents fighting," "bad news."
+Overwhelmed by extracurricular activities.
+Trigger words: "Too busy," "no time."
+Embarrassed from a mistake made in class yesterday.
+Trigger words: "Everyone laughed," "so awkward."
+Feeling like they aren’t good enough academically.
+Trigger words: "Not smart," "falling behind."
+Nervous about an upcoming competition.
+Trigger words: "Big event," "pressure."
+Dealing with anger after a fight at home.
+Trigger words: "Argument," "yelled at."
+Anxious about speaking up in group discussions.
+Trigger words: "Too shy," "not heard."
+Feeling disconnected from friends after a falling out.
+Trigger words: "Friends mad," "isolated."
+Worrying about disappointing their parents.
+Trigger words: "Mom’s expectations," "Dad’s goals."
+Fear of being judged by classmates.
+Trigger words: "Stared at," "not liked."
+Frustrated with schoolwork and not being able to complete tasks.
+Trigger words: "Too hard," "failed."
+Embarrassed about their appearance.
+Trigger words: "Ugly," "fat."
+Anxious about seeing a certain teacher after a bad grade.
+Trigger words: "Yelled at," "lecture."
+Tired from staying up late doing homework.
+Trigger words: "Sleepy," "late night."
+Stress about upcoming exams and projects.
+Trigger words: "Test anxiety," "due date."
+Feeling left out of group activities.
+Trigger words: "Excluded," "no one invites me."
+Afraid to show their true self.
+Trigger words: "Fake," "not accepted."
+Feeling misunderstood by peers.
+Trigger words: "Not understood," "alone."
+Feeling disappointed after not meeting personal goals.
+Trigger words: "Failed," "not good enough."
+Saddened by a friend’s recent behavior.
+Trigger words: "Mean," "don’t talk anymore."
+Worrying about their social status at school.
+Trigger words: "Popularity," "classmates."
+Self-conscious about their handwriting or artwork.
+Trigger words: "Ugly writing," "drawing bad."
+Anxiety about an upcoming school performance.
+Trigger words: "Too nervous," "can’t do it."
+Feeling disconnected from a group of friends.
+Trigger words: "Lost friends," "out of touch."
+Sad about a sibling going off to college.
+Trigger words: "Gone," "left behind."
+Overthinking about their future career choices.
+Trigger words: "What will I do?" "Not sure."
+Fear of failing at something important.
+Trigger words: "Fail," "won’t succeed."
+Feeling like they don’t belong in a certain class.
+Trigger words: "Too smart," "not fitting in."
+Depressed about personal struggles at home.
+Trigger words: "Home life," "family problems."
+Feeling overwhelmed by expectations to succeed.
+Trigger words: "Pressure," "too much."
+Angry about something that happened in school.
+Trigger words: "Pissed," "frustrated."
+Upset by seeing a friend being treated poorly.
+Trigger words: "Hurt," "mean kids."
+Feeling isolated due to new school surroundings.
+Trigger words: "New," "no friends."
+Nervous about socializing at school events.
+Trigger words: "Uncomfortable," "awkward."
+Afraid to tell their parents about a school problem.
+Trigger words: "Scared," "don’t want to talk."
+Feeling down after not being noticed for good deeds.
+Trigger words: "Unappreciated," "ignored."
+Fear of embarrassment from being called out in class.
+Trigger words: "All eyes on me," "embarrassed."
+Anxiety over new changes happening in their life.
+Trigger words: "Change," "scared."
+Upset about a teacher’s criticism.
+Trigger words: "Yelled," "criticized."
+Nervous about transitioning to a new grade level.
+Trigger words: "New class," "unknown teacher."
+Fear of disappointing their parents after a bad grade.
+Trigger words: "Failed," "parents disappointed."
+Feeling overwhelmed by school’s workload.
+Trigger words: "Too much work," "can’t keep up."
+Sad about a close friend moving away.
+Trigger words: "Gone," "moving."
+Feeling down about their body image.
+Trigger words: "Too big," "not pretty."
+Feeling constantly judged by classmates.
+Trigger words: "Judged," "watched."
+Worried about failing a subject.
+Trigger words: "Failing," "low grades."
+Struggling with perfectionism.
+Trigger words: "Not perfect," "mistakes."
+Frustrated after getting a bad grade.
+Trigger words: "Fail," "not good enough."
+Upset about having no friends to talk to.
+Trigger words: "Alone," "no one cares."
+Angry at a teacher for being unfair.
+Trigger words: "Unfair," "punished."
+Feeling misunderstood by family members.
+Trigger words: "Misunderstood," "they don’t get me."
+Having a meltdown over too much responsibility.
+Trigger words: "Overwhelmed," "too much."
+Feeling ashamed after a public mistake.
+Trigger words: "Embarrassed," "wrong answer."
+Sad about not being invited to a group activity.
+Trigger words: "Ignored," "not invited."
+Feeling guilty about not spending enough time with family.
+Trigger words: "Not enough time," "feeling bad."
+Anxious about being judged by how they speak.
+Trigger words: "My voice," "not good enough."
+Frustrated by a lack of support from family or friends.
+Trigger words: "No help," "alone in this."
+Feeling anxious about going back to school after a long break.
+Trigger words: "Long vacation," "back to school."
+Worried about their friends not liking them anymore.
+Trigger words: "Not liked," "lost friends."
+Afraid to face the teacher after missing classes.
+Trigger words: "Behind," "teacher angry."
+Struggling with self-confidence at school.
+Trigger words: "Not confident," "too shy."
+Feeling sad after getting into trouble at school.
+Trigger words: "Grounded," "yelled at."
+Frustrated by not being able to express themselves clearly.
+Trigger words: "Misunderstood," "can’t explain."
+Anxious about talking in front of others.
+Trigger words: "Stage fright," "don’t want to talk."
+Nervous about being labeled or judged.
+Trigger words: "Labeled," "wrong impression."
+Feeling stressed about upcoming exams.
+Trigger words: "Too much studying," "exam pressure."
+Feeling insecure about their academic performance.
+Trigger words: "Grades," "not good enough."
+Overwhelmed by household responsibilities.
+Trigger words: "Too much," "not enough help."
+Feeling nervous before a big presentation.
+Trigger words: "Presentation," "too nervous."
+Stress about having too many school-related activities.
+Trigger words: "Too busy," "no free time."
+Fear of being socially awkward at school.
+Trigger words: "Awkward," "don’t fit in."
+Feeling exhausted after a long day at school.
+Trigger words: "So tired," "exhausted."
+Anxiety about being singled out in front of classmates.
+Trigger words: "All eyes on me," "too much attention."
+Feeling embarrassed by their appearance or clothing.
+Trigger words: "Not stylish," "embarrassing clothes."
+Fear of failing to meet expectations set by others.
+Trigger words: "Disappointed," "failed them."
+Overthinking an interaction with a classmate.
+Trigger words: "Did I say something wrong?" "Overanalyzing."
+Feeling uncomfortable in social situations.
+Trigger words: "Awkward," "don’t know what to say."
+Anxious about starting a new school year.
+Trigger words: "First day," "new teachers."
+Embarrassed about a mistake made in front of a teacher.
+Trigger words: "Mistake," "teacher saw."
+Overwhelmed by home assignments and projects.
+Trigger words: "Too much homework," "can’t finish."
+Feeling anxious about making a decision.
+Trigger words: "What if I choose wrong?" "Can’t decide."
+Feeling frustrated after a misunderstanding with a friend.
+Trigger words: "Misunderstood," "why don’t they get it?"
+Nervous about attending a new event or activity.
+Trigger words: "First time," "nervous."
+Afraid of being alone during a break.
+Trigger words: "Lonely," "no one to talk to."
+Worried about failing to achieve a personal goal.
+Trigger words: "Didn’t make it," "feel like a failure."
+Struggling with perfectionism.
+Trigger words: "Not perfect," "mistakes."
+Feeling overwhelmed by responsibilities at school.
+Trigger words: "Too much," "can’t keep up."
+Nervous about asking for help in class.
+Trigger words: "Embarrassing," "don’t understand."
+Angry at someone for hurting their feelings.
+Trigger words: "Hurts," "angry at them."
+Feeling shy about joining a new activity.
+Trigger words: "New group," "nervous."
+Frustrated about not making any progress.
+Trigger words: "Stuck," "no results."
+Fear of being judged for their opinions.
+Trigger words: "Not good enough," "scared to speak."
+Feeling left out during group activities.
+Trigger words: "Excluded," "forgotten."
+Feeling sad after losing a favorite item.
+Trigger words: "Lost," "can’t find it."
+Feeling unsure about their future choices.
+Trigger words: "No direction," "what next?"
+
+2. Social/Peer Pressure (100 Scenarios)
+Peer pressure to skip class and hang out instead.
+Trigger words: "Skipping," "ditch."
+Feeling forced to follow the latest trend, even if they don’t like it.
+Trigger words: "Trendy," "everyone’s doing it."
+Afraid of being left out if they don’t join the group.
+Trigger words: "Left behind," "not invited."
+Feeling pressured to talk to someone they don’t like.
+Trigger words: "Talk to them," "group pressure."
+Afraid to say no when a friend asks to copy their homework.
+Trigger words: "Copy," "don’t want to be rude."
+Nervous about wearing something different than the rest of the class.
+Trigger words: "Not cool," "weird clothes."
+Feeling pressured to attend a party they don’t want to go to.
+Trigger words: "Everyone’s going," "don’t want to be left out."
+Peer pressure to act tough in front of classmates.
+Trigger words: "Show off," "tough guy."
+Fear of not fitting in with a new group of friends.
+Trigger words: "New friends," "no one likes me."
+Feeling like they must agree with the popular opinion, even if it’s not their own.
+Trigger words: "Agree," "everyone says it’s cool."
+Afraid of being laughed at for being different.
+Trigger words: "Weird," "not fitting in."
+Feeling pressured to try a harmful activity because everyone else is doing it.
+Trigger words: "Try it," "everyone does it."
+Not wanting to stand out in the crowd and hide their true self.
+Trigger words: "Blending in," "don’t want attention."
+Feeling uncomfortable when friends make fun of someone else.
+Trigger words: "Bullying," "don’t want to be a part."
+Nervous about being labeled because of who they hang out with.
+Trigger words: "Label," "group expectations."
+Feeling pressured to post something on social media to fit in.
+Trigger words: "Social media," "everyone’s posting."
+Afraid of being called a nerd for studying too much.
+Trigger words: "Nerd," "study too much."
+Peer pressure to get a certain haircut or style.
+Trigger words: "New look," "cool hairstyle."
+Nervous about being judged for not liking popular music.
+Trigger words: "Not cool," "not the same music."
+Feeling pressured to follow the behavior of a friend they look up to.
+Trigger words: "Role model," "want to be like them."
+Afraid of being the odd one out when talking about certain topics.
+Trigger words: "Out of place," "don’t get it."
+Peer pressure to drink or do something unhealthy at a party.
+Trigger words: "Drink," "everyone does it."
+Feeling uncomfortable when friends make them pick sides in an argument.
+Trigger words: "Choose sides," "don’t want to get involved."
+Afraid of being judged for not knowing the latest gossip.
+Trigger words: "Out of the loop," "everyone’s talking about it."
+Feeling pressured to go to a concert they don’t want to attend.
+Trigger words: "Concert," "all my friends are going."
+Feeling obligated to participate in group bullying.
+Trigger words: "Make fun of," "everyone’s doing it."
+Feeling like they have to dress a certain way to be accepted.
+Trigger words: "Fashion," "cool clothes."
+Afraid to speak up about something they disagree with in a group.
+Trigger words: "Not saying anything," "group opinion."
+Feeling like they have to have a certain type of phone to fit in.
+Trigger words: "Phone," "everyone has it."
+Feeling peer pressure to participate in risky behavior.
+Trigger words: "Risky," "everyone’s doing it."
+Nervous about people noticing if they don’t follow the group.
+Trigger words: "Not the same," "different."
+Afraid to express an unpopular opinion around friends.
+Trigger words: "Disagree," "everyone’s against me."
+Peer pressure to gossip about someone to fit in.
+Trigger words: "Gossip," "everyone’s talking."
+Feeling uncomfortable when they’re asked to do something they know is wrong.
+Trigger words: "Wrong choice," "don’t want to."
+Nervous about being left out when a new social group forms.
+Trigger words: "New friends," "don’t want to be alone."
+Feeling like they must change their beliefs to be accepted by friends.
+Trigger words: "Change," "fit in."
+Peer pressure to send something they’re not comfortable with online.
+Trigger words: "Send this," "don’t want to."
+Feeling pressured to go along with a group prank.
+Trigger words: "Prank," "everyone’s in on it."
+Afraid of not being invited to a group activity if they refuse to go.
+Trigger words: "Invite," "won’t be included."
+Feeling like they must conform to a group’s idea of fun.
+Trigger words: "Fun," "must do this."
+Afraid of being seen as a “loser” for not engaging in certain activities.
+Trigger words: "Loser," "not cool."
+Nervous about being excluded from a conversation because they don’t know what to say.
+Trigger words: "Excluded," "don’t get it."
+Feeling like they can’t say no to peer pressure without being judged.
+Trigger words: "Say no," "everyone’s watching."
+Feeling uncomfortable with the way friends are treating someone else.
+Trigger words: "Mean," "not right."
+Nervous about not fitting into a specific clique at school.
+Trigger words: "Clique," "don’t belong."
+Feeling pressured to act older than they are in front of peers.
+Trigger words: "Grow up," "act older."
+Afraid of being judged for not being good at sports.
+Trigger words: "Sports," "not good enough."
+Feeling forced to attend an event they don’t enjoy because others are.
+Trigger words: "Event," "don’t like it."
+Peer pressure to date someone they’re not interested in.
+Trigger words: "Date," "not into them."
+Feeling like they have to agree with everything their friends say to stay in the group.
+Trigger words: "Agree," "can’t disagree."
+Afraid of being the last one to know about a group decision.
+Trigger words: "Out of the loop," "they decided without me."
+Feeling like they have to impress their friends with material things.
+Trigger words: "Impress," "show off."
+Nervous about saying something unpopular in a group chat.
+Trigger words: "Group chat," "don’t want to offend."
+Afraid of being judged for having different hobbies.
+Trigger words: "Not normal," "my hobbies."
+Feeling pressured to change their personality to be more popular.
+Trigger words: "Be like them," "change me."
+Feeling uncomfortable with the way their friends talk about others.
+Trigger words: "Talk bad," "not right."
+Afraid of being criticized for their choices.
+Trigger words: "Criticized," "everyone’s opinion."
+Feeling like they must be part of a “cool” group to feel worthy.
+Trigger words: "Cool," "have to fit in."
+Feeling peer pressure to get involved in drama.
+Trigger words: "Drama," "everyone’s talking about it."
+Afraid of being left out of inside jokes.
+Trigger words: "Inside joke," "don’t get it."
+Feeling like they can’t have their own opinion without being judged.
+Trigger words: "Judged," "can’t say what I think."
+Peer pressure to do something they know isn’t safe.
+Trigger words: "Unsafe," "everyone’s doing it."
+Feeling like they must conform to beauty standards to be accepted.
+Trigger words: "Beauty," "must look perfect."
+Afraid of being called boring for not participating in certain activities.
+Trigger words: "Boring," "not fun."
+Peer pressure to stop hanging out with certain friends because of social status.
+Trigger words: "New friends," "ditch them."
+Feeling pressured to share personal information to fit in.
+Trigger words: "Share," "everyone knows."
+Afraid of being judged for not knowing the latest trends.
+Trigger words: "Outdated," "don’t know the trends."
+Feeling like they’re not good enough for a popular social group.
+Trigger words: "Not good enough," "don’t belong."
+Peer pressure to join in on a gossip session.
+Trigger words: "Gossip," "don’t want to."
+Feeling obligated to take part in activities they don’t enjoy to be accepted.
+Trigger words: "Forced," "not fun."
+Afraid of being the only one who says no to peer pressure.
+Trigger words: "Only one," "everyone’s doing it."
+Nervous about being judged for not attending an event.
+Trigger words: "Judged," "not going."
+Feeling uncomfortable when friends pressure them to do something they don’t want to.
+Trigger words: "Uncomfortable," "pressure."
+Afraid of being left out of social activities because of a difference in interests.
+Trigger words: "Left out," "different interests."
+Feeling like they have to conform to a social group’s behavior to be liked.
+Trigger words: "Conform," "be like them."
+Afraid of being ridiculed for having an unpopular opinion.
+Trigger words: "Ridicule," "everyone’s against me."
+Nervous about how others perceive their fashion choices.
+Trigger words: "Fashion," "judged."
+Peer pressure to be someone they’re not to fit in.
+Trigger words: "Fake," "pretending."
+Feeling awkward when they’re the only one not participating in a trend.
+Trigger words: "Left out," "don’t want to be different."
+Afraid of being criticized for the way they express themselves.
+Trigger words: "Criticized," "not how they want."
+Nervous about joining a new friend group that they feel doesn’t accept them.
+Trigger words: "New group," "don’t fit in."
+Feeling judged by others for their life choices.
+Trigger words: "Judged," "wrong choices."
+Feeling peer pressure to go along with a group plan, even if it’s not their idea.
+Trigger words: "Group plan," "have to do it."
+Afraid of being the only one who doesn’t understand a new trend.
+Trigger words: "Out of the loop," "everyone knows."
+Feeling pressured to act a certain way to maintain friendships.
+Trigger words: "Acting," "don’t want to lose them."
+Afraid of not being “cool enough” to join in a social circle.
+Trigger words: "Cool enough," "fit in."
+Feeling like they’re not allowed to have their own opinions within a group.
+Trigger words: "Not allowed," "shut down."
+Peer pressure to wear certain brands to be accepted.
+Trigger words: "Brands," "need to fit in."
+Nervous about their friends judging them if they don’t participate in something.
+Trigger words: "Judged," "don’t want to."
+Feeling uncomfortable when friends make fun of someone for their choices.
+Trigger words: "Making fun," "not right."
+Afraid of being outcast for not fitting the group’s image.
+Trigger words: "Outcast," "don’t fit in."
+Peer pressure to act a certain way to be in with the popular crowd.
+Trigger words: "Popular," "act like them."
+Feeling anxious about speaking up in a group when they don’t agree.
+Trigger words: "Speak up," "don’t want to be different."
+Afraid of being made fun of for their hobbies or interests.
+Trigger words: "Made fun of," "not cool."
+Feeling like they’re only valued for their social status.
+Trigger words: "Valued," "status."
+Feeling like they have to maintain a perfect image to fit in.
+Trigger words: "Perfect," "no flaws."
+Nervous about being seen as “uncool” for not following the crowd.
+Trigger words: "Uncool," "follow the crowd."
+Feeling pressured to spend money to keep up with their friends.
+Trigger words: "Spend money," "need the latest."
+Afraid of being criticized for the way they speak or act.
+Trigger words: "Criticized," "not right."
+Feeling like they have to change who they are to fit in.
+Trigger words: "Change," "not myself."
+
+Feeling overwhelmed by the pressure to perform well academically.
+Trigger words: "Overwhelmed," "too much work."
+Struggling with anxiety before a big test or presentation.
+Trigger words: "Test anxiety," "nervous."
+Dealing with feelings of depression and not wanting to face the day.
+Trigger words: "Sad," "don’t feel like it."
+Experiencing low self-esteem and not feeling good enough.
+Trigger words: "Not good enough," "self-doubt."
+Feeling isolated and unable to connect with peers.
+Trigger words: "Alone," "outcast."
+Struggling with motivation to get out of bed in the morning.
+Trigger words: "No energy," "don’t want to move."
+Feeling like they’re not understood by their friends or family.
+Trigger words: "Not understood," "alone."
+Experiencing panic attacks and feeling out of control.
+Trigger words: "Panic," "out of control."
+Feeling overwhelmed by the thought of going to school every day.
+Trigger words: "Dreading school," "too much pressure."
+Struggling with a lack of energy and constantly feeling exhausted.
+Trigger words: "Tired," "no energy."
+Experiencing negative thoughts that prevent them from focusing.
+Trigger words: "Negative thoughts," "can’t concentrate."
+Feeling like they can’t talk to anyone about how they’re feeling.
+Trigger words: "No one to talk to," "bottling it up."
+Struggling to get out of a negative mental state.
+Trigger words: "Stuck," "can’t snap out of it."
+Dealing with feelings of guilt over things they can't control.
+Trigger words: "Guilt," "not my fault."
+Feeling stressed about balancing school, homework, and social life.
+Trigger words: "Stressed," "too much to handle."
+Experiencing feelings of hopelessness about the future.
+Trigger words: "Hopeless," "no future."
+Struggling with body image issues and feeling uncomfortable in their own skin.
+Trigger words: "Body image," "don’t like how I look."
+Feeling detached from their emotions and not knowing how to process them.
+Trigger words: "Disconnected," "can’t feel anything."
+Struggling with the fear of failure and its impact on their confidence.
+Trigger words: "Fear of failure," "can’t do it."
+Feeling like there’s no point in trying because nothing changes.
+Trigger words: "No point," "nothing helps."
+Experiencing social anxiety in group settings or public spaces.
+Trigger words: "Social anxiety," "don’t want to talk."
+Feeling the pressure to always appear happy or "normal" even when they’re not.
+Trigger words: "Pretend," "fake it."
+Struggling with mood swings that make them feel out of control.
+Trigger words: "Mood swings," "can’t control it."
+Feeling like they don’t belong and no one will accept them.
+Trigger words: "Not belong," "no one accepts me."
+Struggling with intrusive thoughts that they can’t control.
+Trigger words: "Intrusive thoughts," "can’t stop thinking."
+Feeling afraid of being judged or criticized by others.
+Trigger words: "Judged," "criticized."
+Experiencing frustration when they can’t express themselves properly.
+Trigger words: "Frustration," "can’t explain."
+Feeling overwhelmed by a lack of personal space or time to relax.
+Trigger words: "No space," "need time alone."
+Struggling with stress and anxiety over family problems.
+Trigger words: "Family issues," "stressed."
+Feeling like everything is falling apart and they can’t do anything to fix it.
+Trigger words: "Everything’s falling apart," "can’t fix it."
+Experiencing a sense of emptiness or disconnection from the world.
+Trigger words: "Empty," "nothing matters."
+Struggling with the desire to isolate themselves from others.
+Trigger words: "Isolate," "don’t want to be around people."
+Feeling anxious about upcoming events or social situations.
+Trigger words: "Anxious," "upcoming event."
+Struggling to manage the pressure of schoolwork and home life.
+Trigger words: "Pressure," "too much to do."
+Feeling drained by constant negativity around them.
+Trigger words: "Drained," "too much negativity."
+Experiencing overwhelming thoughts that prevent them from concentrating.
+Trigger words: "Overwhelming thoughts," "can’t focus."
+Struggling with a sense of disorientation or loss of direction.
+Trigger words: "Lost," "no direction."
+Feeling like they can’t live up to their parents’ or society’s expectations.
+Trigger words: "Expectations," "can’t live up to it."
+Dealing with a sudden emotional outburst that they can’t control.
+Trigger words: "Outburst," "can’t stop it."
+Feeling like no one understands their struggles or how they feel.
+Trigger words: "No one understands," "feel alone."
+Struggling with feelings of anger that seem impossible to control.
+Trigger words: "Anger," "can’t control it."
+Feeling trapped in a situation they don’t know how to escape from.
+Trigger words: "Trapped," "can’t get out."
+Experiencing intense feelings of loneliness even in a crowd.
+Trigger words: "Loneliness," "crowded but alone."
+Struggling with self-harm thoughts as a way to cope.
+Trigger words: "Self-harm," "coping."
+Feeling like they’re not worthy of being loved or cared for.
+Trigger words: "Not worthy," "no one cares."
+Struggling with an unhealthy relationship or toxic friendship.
+Trigger words: "Toxic," "unhealthy relationship."
+Feeling like they have no one to talk to about their emotions.
+Trigger words: "No one to talk to," "bottling up."
+Experiencing a sense of dread about facing the day ahead.
+Trigger words: "Dread," "don’t want to face it."
+Feeling like they’re invisible and not seen by others.
+Trigger words: "Invisible," "no one sees me."
+Struggling with perfectionism and never feeling good enough.
+Trigger words: "Perfection," "never good enough."
+Feeling the weight of expectations from others to perform or succeed.
+Trigger words: "Expectations," "pressure to succeed."
+Struggling with the fear of being rejected or abandoned by others.
+Trigger words: "Fear of rejection," "don’t want to be abandoned."
+Experiencing deep sadness and not understanding why.
+Trigger words: "Sadness," "can’t explain why."
+Feeling like they can’t cope with the challenges they’re facing.
+Trigger words: "Can’t cope," "too hard."
+Struggling with the feeling that they’re never good enough for others.
+Trigger words: "Not good enough," "can’t satisfy anyone."
+Experiencing a sense of numbness or detachment from reality.
+Trigger words: "Numb," "don’t feel real."
+Feeling anxious about how others perceive them or judge them.
+Trigger words: "Anxious," "worried about judgment."
+Struggling with a lack of self-confidence and self-worth.
+Trigger words: "Low self-esteem," "not confident."
+Experiencing emotional exhaustion from dealing with stress and pressure.
+Trigger words: "Exhausted," "too much pressure."
+Feeling uncertain about their future and what lies ahead.
+Trigger words: "Uncertain future," "don’t know what’s next."
+Struggling with feelings of inadequacy in relationships.
+Trigger words: "Inadequate," "not good enough in relationships."
+Dealing with the emotional aftermath of a breakup or loss.
+Trigger words: "Breakup," "loss."
+Experiencing feelings of guilt or shame over past mistakes.
+Trigger words: "Guilt," "shame."
+Feeling that their emotions are too overwhelming to handle.
+Trigger words: "Overwhelmed," "can’t handle this."
+Struggling with the fear of failure in school or life.
+Trigger words: "Fear of failure," "not good enough."
+Feeling like they’ll never be able to meet the expectations of others.
+Trigger words: "Never meet expectations," "can’t satisfy them."
+Struggling with a deep sense of dissatisfaction with their life.
+Trigger words: "Dissatisfied," "not happy."
+Feeling frustrated with the inability to control their emotions.
+Trigger words: "Frustrated," "can’t control emotions."
+Experiencing a lack of motivation and interest in activities they used to enjoy.
+Trigger words: "No motivation," "lost interest."
+Struggling with fear of the unknown and the uncertainty of life.
+Trigger words: "Fear of unknown," "uncertain future."
+Feeling a lack of support from family or friends when facing challenges.
+Trigger words: "No support," "alone in this."
+Experiencing anxiety about meeting new people or socializing.
+Trigger words: "Anxiety," "new people."
+Struggling with the aftermath of a traumatic experience.
+Trigger words: "Trauma," "can’t get over it."
+Feeling constantly on edge and unable to relax.
+Trigger words: "On edge," "can’t relax."
+Experiencing a lack of sense of purpose or direction in life.
+Trigger words: "No purpose," "lost."
+Struggling with anger or frustration that they can’t seem to control.
+Trigger words: "Anger," "can’t stop it."
+Feeling trapped in their own thoughts and emotions.
+Trigger words: "Trapped," "can’t get out of my head."
+Struggling with feelings of being “stuck” in life.
+Trigger words: "Stuck," "can’t move forward."
+Feeling the constant pressure to perform and be perfect.
+Trigger words: "Pressure," "perfect."
+Struggling with a sense of numbness or lack of emotional response.
+Trigger words: "Numb," "can’t feel anything."
+Feeling guilty for not being able to help someone in need.
+Trigger words: "Guilt," "can’t help."
+Struggling with loneliness even when surrounded by people.
+Trigger words: "Lonely," "surrounded but alone."
+Feeling like they’re not living up to their potential.
+Trigger words: "Not enough," "not fulfilling potential."
+Struggling with a lack of direction or goals in life.
+Trigger words: "No direction," "no goals."
+Feeling disconnected from their peers or friends.
+Trigger words: "Disconnected," "don’t relate."
+Struggling with an overwhelming sense of guilt or regret.
+Trigger words: "Guilt," "regret."
+Feeling like they’re constantly running out of time to get everything done.
+Trigger words: "Out of time," "too much to do."
+Struggling with burnout from too much stress and responsibility.
+Trigger words: "Burnout," "too stressed."
+Feeling like they don’t belong in their current environment.
+Trigger words: "Don’t belong," "out of place."
+Struggling with a negative self-image and body dysmorphia.
+Trigger words: "Negative image," "body dysmorphia."
+Feeling disconnected from their own identity or sense of self.
+Trigger words: "Disconnected," "don’t know who I am."
+Struggling with feelings of inadequacy compared to others.
+Trigger words: "Inadequate," "not as good as them."
+Feeling overwhelmed by the thought of facing challenges or obstacles.
+Trigger words: "Overwhelmed," "can’t face it."
+Struggling with emotional numbness or a lack of emotional reaction.
+Trigger words: "Numb," "no emotion."
+Feeling hopeless about changing their current situation.
+Trigger words: "Hopeless," "stuck in this."
+Struggling with the loss of a loved one or grief.
+Trigger words: "Loss," "grieving."
+Feeling like they have to hide their true emotions to fit in.
+Trigger words: "Hide emotions," "pretend."
+Struggling with feelings of inadequacy in their social life.
+Trigger words: "Not enough," "can’t connect."
+Feeling overwhelmed by a constant sense of fear or worry.
+Trigger words: "Constant worry," "fear."
+Struggling with the aftermath of a personal failure or disappointment.
+Trigger words: "Failure," "disappointment."
+
+
+4. Bullying and Peer Issues (100 Scenarios)
+Experiencing physical bullying from classmates.
+Trigger words: "Hurt," "beaten up."
+Being excluded from group activities or projects.
+Trigger words: "Left out," "not invited."
+Facing verbal insults or name-calling daily.
+Trigger words: "Called names," "insults."
+Having rumors spread about them at school.
+Trigger words: "Rumors," "gossip."
+Being targeted online through social media bullying.
+Trigger words: "Cyberbullying," "posts about me."
+Feeling anxious about walking into the cafeteria alone.
+Trigger words: "Cafeteria," "sitting alone."
+Being mocked for their appearance by classmates.
+Trigger words: "Looks," "appearance."
+Facing peer pressure to do things they’re uncomfortable with.
+Trigger words: "Pressure," "forced."
+Having their personal belongings stolen or damaged.
+Trigger words: "Stolen," "destroyed."
+Being ignored or “ghosted” by friends for no clear reason.
+Trigger words: "Ignored," "no replies."
+Feeling humiliated when teased in front of others.
+Trigger words: "Teased," "laughed at."
+Being physically threatened by someone at school.
+Trigger words: "Threatened," "scared."
+Feeling like they have no one to sit with during lunch.
+Trigger words: "Alone at lunch," "no friends."
+Being bullied for their hobbies or interests.
+Trigger words: "Weird," "hobbies mocked."
+Facing racial or cultural discrimination at school.
+Trigger words: "Racism," "cultural comments."
+Being picked on for the way they talk or their accent.
+Trigger words: "Accent," "mocked speech."
+Having private messages or photos shared without consent.
+Trigger words: "Leaked messages," "shared photos."
+Feeling unsafe in the school environment.
+Trigger words: "Unsafe," "scared at school."
+Being excluded from sports or team activities.
+Trigger words: "Not chosen," "left out."
+Being bullied by older students in the school.
+Trigger words: "Upperclassmen," "older bullies."
+Facing jealousy or resentment from peers.
+Trigger words: "Jealousy," "resentment."
+Being laughed at during class for giving a wrong answer.
+Trigger words: "Class laugh," "embarrassed."
+Being pushed or shoved in the hallway.
+Trigger words: "Shoved," "hallway incident."
+Feeling ganged up on by a group of classmates.
+Trigger words: "Ganged up," "group bullying."
+Being criticized or insulted for their family background.
+Trigger words: "Family comments," "insults."
+Feeling like they’re the constant target of jokes.
+Trigger words: "Jokes about me," "targeted."
+Being singled out by a teacher in a way that feels unfair.
+Trigger words: "Teacher unfair," "called out."
+Being bullied for their sexual orientation or gender identity.
+Trigger words: "LGBTQ," "identity mocked."
+Feeling anxious about facing their bully every day.
+Trigger words: "Anxious," "seeing them."
+Having someone spread fake rumors about their relationships.
+Trigger words: "Relationship rumors," "false stories."
+Being called out for wearing “uncool” clothes.
+Trigger words: "Clothes mocked," "uncool."
+Feeling threatened over a past argument with a peer.
+Trigger words: "Past argument," "threats."
+Being mocked for struggling in class.
+Trigger words: "Slow learner," "mocked in class."
+Facing peer pressure to skip school or break rules.
+Trigger words: "Skip school," "break rules."
+Having their personal space violated by peers.
+Trigger words: "No boundaries," "too close."
+Being embarrassed by a prank played on them.
+Trigger words: "Pranked," "humiliated."
+Feeling excluded from birthday parties or events.
+Trigger words: "Not invited," "excluded events."
+Being bullied for their religion or beliefs.
+Trigger words: "Religion mocked," "beliefs insulted."
+Facing constant criticism or negativity from peers.
+Trigger words: "Criticized," "negative comments."
+Being mocked for a disability or learning difference.
+Trigger words: "Disability," "mocked for difference."
+Feeling trapped in a toxic friendship.
+Trigger words: "Toxic friend," "stuck."
+Being physically restrained or blocked by peers as a joke.
+Trigger words: "Blocked," "held back."
+Feeling like their achievements are belittled by classmates.
+Trigger words: "Belittled," "achievements mocked."
+Facing pressure to conform to peer group norms.
+Trigger words: "Conform," "peer pressure."
+Being bullied for their weight or size.
+Trigger words: "Weight," "size comments."
+Feeling uncomfortable about someone spreading their secrets.
+Trigger words: "Secrets shared," "betrayal."
+Being criticized for their opinions in a harsh manner.
+Trigger words: "Opinions mocked," "criticized harshly."
+Feeling anxious about walking past a specific group of students.
+Trigger words: "Group anxiety," "scared to pass."
+Being mocked for their social awkwardness or introversion.
+Trigger words: "Awkward," "introverted."
+Feeling like they don’t fit in with their classmates.
+Trigger words: "Don’t fit in," "misfit."
+Being bullied for having a unique name or nickname.
+Trigger words: "Name jokes," "nickname teasing."
+Feeling nervous about confronting a bully or toxic friend.
+Trigger words: "Confront," "anxious confrontation."
+Having their artwork or project ridiculed by peers.
+Trigger words: "Project mocked," "artwork criticism."
+Being ignored by classmates when asking for help.
+Trigger words: "Ignored," "no help."
+Feeling uncomfortable about inappropriate jokes made about them.
+Trigger words: "Inappropriate jokes," "offensive."
+Being bullied for their interests in non-traditional hobbies.
+Trigger words: "Unusual hobbies," "mocked interests."
+Feeling excluded from group selfies or photos.
+Trigger words: "No photos," "excluded selfies."
+Being criticized for their handwriting or drawing skills.
+Trigger words: "Handwriting mocked," "drawing insulted."
+Feeling uncomfortable due to invasive personal questions.
+Trigger words: "Personal questions," "uncomfortable."
+Being embarrassed in front of the class by a peer’s comment.
+Trigger words: "Class comment," "embarrassed."
+Facing sarcastic remarks that hurt their feelings.
+Trigger words: "Sarcasm," "hurtful comments."
+Feeling targeted during sports or games at school.
+Trigger words: "Targeted," "sports incidents."
+Being bullied for being quiet or shy in class.
+Trigger words: "Quiet," "shy."
+Facing constant interruptions when trying to speak.
+Trigger words: "Interrupted," "cut off."
+Being teased for their hairstyle or fashion choices.
+Trigger words: "Hair mocked," "fashion teased."
+Feeling pressured to do someone else’s homework.
+Trigger words: "Homework," "forced help."
+Being publicly called out for a mistake.
+Trigger words: "Public mistake," "called out."
+Feeling criticized for their accent or voice pitch.
+Trigger words: "Voice mocked," "accent jokes."
+Having their lunch or snacks stolen by classmates.
+Trigger words: "Lunch stolen," "snack missing."
+Feeling mocked for stuttering or mispronouncing words.
+Trigger words: "Stutter," "mispronounce."
+Being excluded from recess games or activities.
+Trigger words: "Recess," "left out."
+Feeling embarrassed due to a public confrontation.
+Trigger words: "Public argument," "embarrassed fight."
+Being mocked for being too emotional or crying.
+Trigger words: "Crying," "emotional comments."
+Feeling bullied for their lack of athletic skills.
+Trigger words: "Not athletic," "sports mockery."
+Being made fun of for their favorite TV show or fandom.
+Trigger words: "TV show," "fandom teased."
+76. Facing constant taunts about their academic performance.
+Trigger words: "Grades," "dumb comments."
+77. Being compared to a sibling or relative by classmates.
+Trigger words: "Compared," "sibling better."
+78. Feeling bullied for their eating habits or food choices.
+Trigger words: "Food mocked," "eating comments."
+79. Facing pranks that cross the line and cause harm.
+Trigger words: "Hurtful prank," "too far."
+80. Feeling criticized for their achievements as “too nerdy.”
+Trigger words: "Nerdy," "overachiever."
+81. Being bullied for their speech patterns or vocabulary.
+Trigger words: "Words mocked," "vocabulary jokes."
+82. Feeling forced to participate in trends they don’t like.
+Trigger words: "Trendy," "peer pressure."
+83. Being ostracized for choosing not to attend a party.
+Trigger words: "Missed party," "excluded afterward."
+84. Feeling ignored during group discussions or projects.
+Trigger words: "Ignored in group," "overlooked."
+85. Being teased for a personal hobby, like reading or collecting.
+Trigger words: "Reading mocked," "collector jokes."
+86. Feeling embarrassed when their social media posts are mocked.
+Trigger words: "Posts mocked," "social media teasing."
+87. Facing hostility for expressing their opinions in class.
+Trigger words: "Opinions criticized," "disagree harshly."
+88. Feeling pressured to change their appearance to fit in.
+Trigger words: "Appearance pressure," "fit in."
+89. Being called out in class for not understanding a concept.
+Trigger words: "Didn’t understand," "mocked for asking."
+90. Feeling mocked for participating in drama, choir, or arts.
+Trigger words: "Drama kid," "arts teased."
+91. Facing teasing for their home situation or family dynamics.
+Trigger words: "Family jokes," "home comments."
+92. Being ridiculed for their unique laugh or mannerisms.
+Trigger words: "Laugh mocked," "weird habits."
+93. Feeling criticized for taking part in volunteer work.
+Trigger words: "Volunteer," "do-gooder."
+94. Being teased for asking too many questions in class.
+Trigger words: "Too many questions," "teacher’s pet."
+95. Facing backlash for standing up to a bully.
+Trigger words: "Stood up," "backlash."
+96. Feeling ostracized for reporting bad behavior to a teacher.
+Trigger words: "Tattle," "snitch."
+97. Being excluded from group chats or online activities.
+Trigger words: "Not in chat," "online left out."
+98. Feeling criticized for their level of maturity or immaturity.
+Trigger words: "Too mature," "childish."
+99. Facing teasing for their favorite books, games, or music.
+Trigger words: "Books mocked," "music teased."
+100. Being bullied for wearing glasses, braces, or medical aids.
+Trigger words: "Glasses," "braces," "medical device."
+Would you like to proceed with the next category or refine this one further?
+4o
+You said:
+next cattegory
+ChatGPT said:
+ChatGPT
+5. Academic Challenges and Pressures (100 Scenarios)
+Feeling overwhelmed by upcoming tests or exams.
+Trigger words: "Exams," "too many tests."
+Struggling to complete a long-term project by the deadline.
+Trigger words: "Project due," "deadline stress."
+Experiencing difficulty understanding a specific subject.
+Trigger words: "Don’t get it," "hard subject."
+Receiving poor grades despite trying hard.
+Trigger words: "Failed," "bad grades."
+Being compared to siblings or peers with better academic performance.
+Trigger words: "Sibling smarter," "comparison."
+Feeling exhausted from excessive homework.
+Trigger words: "Too much homework," "stressed."
+Worrying about presenting in front of the class.
+Trigger words: "Presentation," "public speaking."
+Being criticized for asking too many questions in class.
+Trigger words: "Questioning too much," "teacher annoyed."
+Feeling anxious about participating in group projects.
+Trigger words: "Group work," "partner issues."
+Struggling to balance schoolwork and extracurricular activities.
+Trigger words: "No time," "overloaded."
+Feeling pressured to get into advanced classes.
+Trigger words: "Honors," "AP courses."
+Being singled out for not completing homework.
+Trigger words: "Forgot homework," "called out."
+Experiencing difficulty staying focused during class.
+Trigger words: "Distracted," "can’t concentrate."
+Worrying about being unprepared for a pop quiz.
+Trigger words: "Pop quiz," "unprepared."
+Feeling embarrassed when asked a question they can’t answer.
+Trigger words: "Didn’t know," "awkward question."
+Struggling with time management for assignments.
+Trigger words: "Can’t organize," "too much to do."
+Being criticized by teachers for not meeting expectations.
+Trigger words: "Teacher upset," "fell short."
+Feeling like they’re always behind in class.
+Trigger words: "Falling behind," "too slow."
+Stressing about failing an important test.
+Trigger words: "Failing," "test anxiety."
+Feeling unmotivated to complete assignments.
+Trigger words: "Boring," "don’t care anymore."
+Being worried about plagiarism accusations.
+Trigger words: "Copied," "unintentional plagiarism."
+Feeling unprepared for a science fair or other competition.
+Trigger words: "Science fair," "competition nerves."
+Struggling to learn a new language in school.
+Trigger words: "Foreign language," "hard to learn."
+Worrying about an upcoming performance review with teachers.
+Trigger words: "Parent-teacher meeting," "teacher review."
+Feeling inadequate compared to classmates in discussions.
+Trigger words: "Everyone knows more," "not smart enough."
+Facing challenges in understanding new technology used in school.
+Trigger words: "Tech issues," "can’t use program."
+Feeling intimidated by classmates who excel academically.
+Trigger words: "Classmates smarter," "can’t keep up."
+Being called out for forgetting supplies.
+Trigger words: "Forgot pen," "unprepared."
+Struggling to study effectively for exams.
+Trigger words: "Study techniques," "don’t retain."
+Worrying about missing school and falling behind.
+Trigger words: "Missed class," "makeup work."
+Feeling frustrated with unhelpful or unclear teachers.
+Trigger words: "Confusing teacher," "no help."
+Being scolded for talking in class when trying to ask a peer for help.
+Trigger words: "Misunderstood," "not talking back."
+Feeling overwhelmed by multiple projects due at once.
+Trigger words: "All due," "stacked deadlines."
+Worrying about standardized tests like SATs or NAPLAN.
+Trigger words: "Big test," "standardized pressure."
+Feeling unsupported in a subject they struggle with.
+Trigger words: "Need tutoring," "no help."
+Experiencing fear of asking questions during class.
+Trigger words: "Won’t ask," "embarrassed question."
+Being criticized for handwriting or neatness on assignments.
+Trigger words: "Messy," "bad handwriting."
+Feeling inadequate in math compared to classmates.
+Trigger words: "Math too hard," "can’t calculate."
+Worrying about a big project presentation.
+Trigger words: "Nervous to present," "can’t speak up."
+Struggling to keep up with reading assignments.
+Trigger words: "Can’t finish book," "reading takes forever."
+Being nervous about oral exams or interviews.
+Trigger words: "Oral exam," "interview nervousness."
+Feeling disappointed after receiving harsh feedback.
+Trigger words: "Criticism," "tough grading."
+Worrying about making mistakes on written assignments.
+Trigger words: "Typos," "grammar errors."
+Feeling like they’re failing to meet parental expectations.
+Trigger words: "Parents disappointed," "not good enough."
+Experiencing anxiety about being late to class.
+Trigger words: "Tardy," "clock watching."
+Being unable to complete a lab experiment correctly.
+Trigger words: "Failed lab," "experiment mistake."
+Feeling nervous about getting called to the board.
+Trigger words: "Board work," "can’t solve it."
+Worrying about peer feedback during group projects.
+Trigger words: "Group judgment," "peer reviews."
+Struggling to understand material due to missed classes.
+Trigger words: "Missed notes," "confused."
+Worrying about taking too long on timed tests.
+Trigger words: "Time ran out," "test stress."
+Feeling confused about assignment instructions.
+Trigger words: "Unclear instructions," "don’t get it."
+Being scolded for incomplete work due to lack of time.
+Trigger words: "Ran out of time," "unfinished."
+Struggling to understand advanced concepts in science.
+Trigger words: "Hard science," "concepts unclear."
+Feeling frustrated with group members who don’t contribute.
+Trigger words: "Lazy group," "unfair workload."
+Being nervous about showing their grades to parents.
+Trigger words: "Report card," "parents see grades."
+Facing anxiety about midterm grades affecting their future.
+Trigger words: "Midterms," "college worries."
+Feeling pressured to perform well in athletics and academics.
+Trigger words: "Balance sports," "too much pressure."
+Being criticized for lack of creativity in art or writing.
+Trigger words: "Not creative," "boring work."
+Worrying about final exams months in advance.
+Trigger words: "Finals," "long-term stress."
+Feeling unmotivated due to burnout.
+Trigger words: "Exhausted," "burnout." 
+HWH
